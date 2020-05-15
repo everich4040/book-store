@@ -140,6 +140,7 @@ header nav .nav-icons .toggle {
   border: 1px solid purple;
   color: purple;
   padding: 10px 35px;
+margin-top:10px;
 }
 .cards .content {
   text-transform: capitalize;
